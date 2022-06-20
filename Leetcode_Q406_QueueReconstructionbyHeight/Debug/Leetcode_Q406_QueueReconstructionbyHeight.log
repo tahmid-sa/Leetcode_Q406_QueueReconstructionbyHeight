@@ -1,0 +1,4 @@
+﻿  Leetcode_Q406_QueueReconstructionbyHeight.cpp
+G:\Leetcode\Medium\Leetcode_Q406_QueueReconstructionbyHeight\Leetcode_Q406_QueueReconstructionbyHeight\Leetcode_Q406_QueueReconstructionbyHeight.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+G:\Leetcode\Medium\Leetcode_Q406_QueueReconstructionbyHeight\Leetcode_Q406_QueueReconstructionbyHeight\Leetcode_Q406_QueueReconstructionbyHeight.cpp(40,27): warning C4018: '<': signed/unsigned mismatch
+  Leetcode_Q406_QueueReconstructionbyHeight.vcxproj -> G:\Leetcode\Medium\Leetcode_Q406_QueueReconstructionbyHeight\Debug\Leetcode_Q406_QueueReconstructionbyHeight.exe
